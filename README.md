@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praveenv2807/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/praveenv2807/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
